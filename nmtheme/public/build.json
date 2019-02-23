@@ -1,0 +1,16 @@
+{
+    "css/nmtheme.min.css": [
+        "public/css/nmtheme.css",
+        "public/css/skin-blue.css",
+        "public/css/custom.css",
+        "public/css/temp.css"
+    ],
+    "js/nmtheme.min.js": [
+        "public/js/nmtheme.js",
+        "public/js/custom.js"
+    ],
+    "js/nmtheme-template.min.js": [
+        "public/js/template/main-sidebar.html"
+    ]
+    
+}
